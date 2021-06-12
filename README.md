@@ -1,16 +1,17 @@
 ## Akshaj Verma
 
-I enjoy writing code using Python, R, and Javascript. Into computer vision and deep learning. I've co-authored a research paper that has been published at AAAI-2021. I worked on time series forecasting and NLP as a data scientist at KPMG for a while. Had a lot of fun developing an R package called 'NNbenchmark' during Google Summer of Code in 2019. Founded a student group called 'Data Science Club' in my university to promote and study applied data science. Love Manchester United, Bob Dylan, and ATLA.
+I’ve been working in the field of deep learning and computer vision research for most of the past year with Prof. Chiranjib Bhattacharyya at the Machine Learning Lab, Indian Institute of Science which resulted in a AAAI’21 paper. Prior to this, I have worked in the field of data science at KPMG and developed an open-source R package through Google Summer of Code’19.
+
+Apart from this, I've worked on a diverse set of projects. From implementing papers such as model compression through filter pruning using PyTorch to building a full-stack web-app that recognizes over 150 Pokemon using TensorflowJS; I’ve developed the skills required to implement the latest research and also put it into production. Love Manchester United, pre-2010 music, and ATLA.
 
 If any of the above sounds interesting and you think we would be a potential fit to work together, send me an invitation to connect and let’s talk!
 
 ### Tech Stack
-- `Python`, `PyTorch`, `OpenCV`
+- `Python`, `PyTorch`, `Pandas`, `Scikit-Learn`, `OpenCV`
+- `ReactJS`, `NextJS`, `EmotionJS`, `StyledComponents`, `TailwindCSS`
+- `NodeJS`, `ExpressJS`, `TensorflowJS` 
+- `MongoDB`, `Heroku`
 - `R`, `Shiny`
-- `ReactJS`, `EmotionJS`, `StyledComponents`, `TailwindCSS`
-- `NodeJS`, `ExpressJS`
-- `NextJS`, `TensorflowJS`
-- `MongoDB`
 
  
 If any of the above sounds interesting and you think we would be a potential fit to work together, send me an invitation to connect and let’s talk!
