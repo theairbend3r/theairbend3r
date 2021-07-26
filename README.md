@@ -4,14 +4,17 @@ I’ve been working in the field of deep learning and computer vision research f
 
 Apart from this, I've worked on a diverse set of projects. From implementing papers such as model compression through filter pruning using PyTorch to building a full-stack web-app that recognizes over 150 Pokemon using TensorflowJS; I’ve developed the skills required to implement the latest research and also put it into production. Love Manchester United, pre-2010 music, and ATLA.
 
-If any of the above sounds interesting and you think we would be a potential fit to work together, send me an invitation to connect and let’s talk!
-
 ### Tech Stack
-- `Python`, `PyTorch`, `Pandas`, `Scikit-Learn`, `OpenCV`
-- `ReactJS`, `NextJS`, `EmotionJS`, `StyledComponents`, `TailwindCSS`
-- `NodeJS`, `ExpressJS`, `TensorflowJS` 
-- `MongoDB`, `Heroku`
-- `R`, `Shiny`
+
+#### Programming Languages
+- `Python`
+- `R`
+- `Javascript`
+
+#### Libraries and Frameworks
+- Machine Learning: `PyTorch`, `Pandas`, `Scikit-Learn`, `OpenCV`, `TensorflowJS`
+- Frontend Web: `ReactJS`, `NextJS`, `EmotionJS`, `StyledComponents`, `TailwindCSS`
+- Backend Web: `NodeJS`, `ExpressJS`, `MongoDB`, `Heroku`
 
  
 If any of the above sounds interesting and you think we would be a potential fit to work together, send me an invitation to connect and let’s talk!
