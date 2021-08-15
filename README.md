@@ -5,13 +5,7 @@ I worked in the field of deep learning and computer vision research for most of 
 Apart from this, I've worked on a diverse set of projects. From implementing papers such as model compression through filter pruning using PyTorch to building a full-stack web-app that recognizes over 150 Pokemon using TensorflowJS; I’ve developed the skills required to implement the latest research and also put it into production. Love Manchester United, pre-2010 music, and ATLA.
 
 ### Tech Stack
-
-#### Programming Languages
-- `Python`
-- `R`
-- `Javascript`
-
-#### Libraries and Frameworks
+- Languages: `Python`, `R`, `Javascript`
 - Machine Learning: `PyTorch`, `Pandas`, `Scikit-Learn`, `OpenCV`, `TensorflowJS`
 - Frontend Web: `ReactJS`, `NextJS`, `EmotionJS`, `StyledComponents`, `TailwindCSS`
 - Backend Web: `NodeJS`, `ExpressJS`, `MongoDB`, `Heroku`
