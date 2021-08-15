@@ -1,6 +1,6 @@
 ## Akshaj Verma
 
-I’ve been working in the field of deep learning and computer vision research for most of the past year with Prof. Chiranjib Bhattacharyya at the Machine Learning Lab, Indian Institute of Science which resulted in a AAAI’21 paper. Prior to this, I have worked in the field of data science at KPMG and developed an open-source R package through Google Summer of Code’19.
+I worked in the field of deep learning and computer vision research for most of 2020 with Prof. Chiranjib Bhattacharyya at the Machine Learning Lab, Indian Institute of Science which culminated in a AAAI’21 paper. Prior to this, I have worked in the field of data science at KPMG and developed an open-source R package through Google Summer of Code’19.
 
 Apart from this, I've worked on a diverse set of projects. From implementing papers such as model compression through filter pruning using PyTorch to building a full-stack web-app that recognizes over 150 Pokemon using TensorflowJS; I’ve developed the skills required to implement the latest research and also put it into production. Love Manchester United, pre-2010 music, and ATLA.
 
