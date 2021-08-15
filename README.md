@@ -8,7 +8,7 @@ Apart from this, I've worked on a diverse set of projects. From implementing pap
 - Languages: `Python`, `R`, `Javascript`
 - Machine Learning: `PyTorch`, `Pandas`, `Scikit-Learn`, `OpenCV`, `TensorflowJS`
 - Frontend Web: `ReactJS`, `NextJS`, `EmotionJS`, `StyledComponents`, `TailwindCSS`
-- Backend Web: `NodeJS`, `ExpressJS`, `MongoDB`, `Heroku`
+- Backend Web: `NodeJS`, `ExpressJS`, `MongoDB`
 
  
 If any of the above sounds interesting and you think we would be a potential fit to work together, send me an invitation to connect and let’s talk!
