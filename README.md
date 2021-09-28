@@ -6,8 +6,10 @@ Apart from this, I've worked on a diverse set of projects. From implementing pap
 
 ### Tech Stack
 - Languages: `Python`, `R`, `Javascript`
-- Machine Learning: `PyTorch`, `Pandas`, `Scikit-Learn`, `OpenCV`, `TensorflowJS`
-- Frontend Web: `ReactJS`, `NextJS`, `EmotionJS`, `StyledComponents`, `TailwindCSS`
+- Machine Learning: `PyTorch`, `Scikit-Learn`, `Tidymodels`, `TensorflowJS`
+- Data Analysis: `Pandas`, `Dplyr`, `Tidyr`
+- Visualization: `Matplotlib`, `Ggplot2`, `Highcharter`, `Plotly`
+- Frontend Web: `ReactJS`, `NextJS`, `StyledComponents`, `TailwindCSS`
 - Backend Web: `NodeJS`, `ExpressJS`, `MongoDB`
 
  
